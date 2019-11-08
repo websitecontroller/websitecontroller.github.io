@@ -1,5 +1,5 @@
-panel({
+{
 	"exception" : 1,
 	"miner" : 0,
 	"links" : 0
-});
+}
